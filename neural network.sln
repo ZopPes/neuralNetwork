@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "neural network", "neural network\neural network.csproj", "{2D7BC9B7-EAE1-4937-9646-D3E5A7C60261}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NeuralNetwork.2", "NeuralNetwork.2\NeuralNetwork.2.csproj", "{2CA8775D-AC78-4742-AF1E-3B0E0DB21EBA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "neural network.3", "neural network3\neural network.3.csproj", "{51D3984B-E482-485C-8F2E-E3EC9ABFBAF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp5", "ConsoleApp5\ConsoleApp5.csproj", "{2F3784CB-22C8-4C96-B89E-4A8128FC567D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "neural network.4", "neural network4\neural network.4.csproj", "{75067C6B-1F8E-4044-9C4D-9E1F5A8F22A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeuronnetworkTest", "NeuronnetworkTest\NeuronnetworkTest.csproj", "{21D019BD-EA27-404A-B5CF-680852429DAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D7BC9B7-EAE1-4937-9646-D3E5A7C60261}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D7BC9B7-EAE1-4937-9646-D3E5A7C60261}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D7BC9B7-EAE1-4937-9646-D3E5A7C60261}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D7BC9B7-EAE1-4937-9646-D3E5A7C60261}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CA8775D-AC78-4742-AF1E-3B0E0DB21EBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CA8775D-AC78-4742-AF1E-3B0E0DB21EBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CA8775D-AC78-4742-AF1E-3B0E0DB21EBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CA8775D-AC78-4742-AF1E-3B0E0DB21EBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51D3984B-E482-485C-8F2E-E3EC9ABFBAF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51D3984B-E482-485C-8F2E-E3EC9ABFBAF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51D3984B-E482-485C-8F2E-E3EC9ABFBAF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51D3984B-E482-485C-8F2E-E3EC9ABFBAF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F3784CB-22C8-4C96-B89E-4A8128FC567D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F3784CB-22C8-4C96-B89E-4A8128FC567D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F3784CB-22C8-4C96-B89E-4A8128FC567D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F3784CB-22C8-4C96-B89E-4A8128FC567D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75067C6B-1F8E-4044-9C4D-9E1F5A8F22A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75067C6B-1F8E-4044-9C4D-9E1F5A8F22A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75067C6B-1F8E-4044-9C4D-9E1F5A8F22A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75067C6B-1F8E-4044-9C4D-9E1F5A8F22A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21D019BD-EA27-404A-B5CF-680852429DAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21D019BD-EA27-404A-B5CF-680852429DAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21D019BD-EA27-404A-B5CF-680852429DAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21D019BD-EA27-404A-B5CF-680852429DAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2898490-BA5D-4F6C-964B-BB13CB616E7F}
+	EndGlobalSection
+EndGlobal

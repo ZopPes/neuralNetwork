@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\neural network\neural network.csproj" />
+    <ProjectReference Include="..\PictureConvert\PictureConvert.csproj" />
+  </ItemGroup>
+
+</Project>
