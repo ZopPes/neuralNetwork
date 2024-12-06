@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="25.0.1">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1772" dy="566" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2591" dy="1056" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="vAYTKrkjBmYyZUhOzSc0-0" value="IApiEndpointProvider" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="32" y="191" width="160" height="70" as="geometry">
+          <mxGeometry x="-110.07999999999998" y="978" width="160" height="70" as="geometry">
             <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -16,7 +16,7 @@
           <mxGeometry y="34" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="vAYTKrkjBmYyZUhOzSc0-6" value="ApiEndpointData" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="374" y="140" width="160" height="138" as="geometry">
+          <mxGeometry x="279" y="955" width="160" height="138" as="geometry">
             <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -34,11 +34,11 @@
         </mxCell>
         <mxCell id="vAYTKrkjBmYyZUhOzSc0-13" value="возвращает список" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="vAYTKrkjBmYyZUhOzSc0-12" vertex="1" connectable="0">
           <mxGeometry x="-0.3887" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="52" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vAYTKrkjBmYyZUhOzSc0-14" value="ElasticEndpoint" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="635" y="39" width="160" height="138" as="geometry">
+          <mxGeometry x="628" y="874" width="160" height="138" as="geometry">
             <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -56,11 +56,11 @@
         </mxCell>
         <mxCell id="vAYTKrkjBmYyZUhOzSc0-25" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vAYTKrkjBmYyZUhOzSc0-8" target="vAYTKrkjBmYyZUhOzSc0-27" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="677.0800000000002" y="231.9659999999999" as="targetPoint" />
+            <mxPoint x="1032.0800000000002" y="1158.966" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vAYTKrkjBmYyZUhOzSc0-27" value="IApiEndpointProvider" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="564" y="307" width="160" height="70" as="geometry">
+          <mxGeometry x="509" y="1099" width="160" height="70" as="geometry">
             <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -72,8 +72,8 @@
         </mxCell>
         <mxCell id="vAYTKrkjBmYyZUhOzSc0-30" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vAYTKrkjBmYyZUhOzSc0-29" target="vAYTKrkjBmYyZUhOzSc0-14" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="219" y="327" as="sourcePoint" />
-            <mxPoint x="426" y="371" as="targetPoint" />
+            <mxPoint x="574" y="1254" as="sourcePoint" />
+            <mxPoint x="781" y="1298" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vAYTKrkjBmYyZUhOzSc0-31" value="Принимает в себя" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="vAYTKrkjBmYyZUhOzSc0-30" vertex="1" connectable="0">
@@ -82,7 +82,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vAYTKrkjBmYyZUhOzSc0-32" value="ElasticTable" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="352" y="377" width="160" height="138" as="geometry">
+          <mxGeometry x="279" y="1140" width="160" height="138" as="geometry">
             <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -97,8 +97,8 @@
         </mxCell>
         <mxCell id="vAYTKrkjBmYyZUhOzSc0-36" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vAYTKrkjBmYyZUhOzSc0-29" target="vAYTKrkjBmYyZUhOzSc0-32" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="528" y="224" as="sourcePoint" />
-            <mxPoint x="697" y="321" as="targetPoint" />
+            <mxPoint x="883" y="1151" as="sourcePoint" />
+            <mxPoint x="1052" y="1248" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vAYTKrkjBmYyZUhOzSc0-37" value="возвращает список" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="vAYTKrkjBmYyZUhOzSc0-36" vertex="1" connectable="0">
@@ -107,10 +107,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vAYTKrkjBmYyZUhOzSc0-38" value="реализация интерфейса проходится по всем методам апи&lt;div&gt;ищет методы котрые помеченны атрибутом Search&lt;/div&gt;&lt;div&gt;И получает из Di методы для загрузки данных в elatic&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="31" y="55" width="162" height="136" as="geometry" />
+          <mxGeometry x="-111.07999999999998" y="808" width="162" height="136" as="geometry" />
         </mxCell>
         <mxCell id="RMxTbMEIOaNRfbkhPK-I-1" value="&lt;div&gt;&lt;b&gt;SearchEndpoints.Search()&lt;/b&gt;&lt;/div&gt;&lt;div&gt;метод api для поиска по методам api&lt;/div&gt;&lt;div&gt;принимает в себя строку поиск и пагинацию&lt;/div&gt;&lt;div&gt;возвращает список найденных данных путь к ним в апи&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-291" y="507" width="232" height="114" as="geometry" />
+          <mxGeometry x="-388" y="507" width="232" height="114" as="geometry" />
         </mxCell>
         <mxCell id="RMxTbMEIOaNRfbkhPK-I-2" value="IElasticSearchService" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="96" y="690" width="160" height="86" as="geometry">
@@ -138,7 +138,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RMxTbMEIOaNRfbkhPK-I-8" value="&lt;div&gt;&lt;b&gt;SearchEndpoints.Update()&lt;/b&gt;&lt;/div&gt;&lt;div&gt;метод апи который обновляет список для поиска&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-298" y="752" width="232" height="114" as="geometry" />
+          <mxGeometry x="-388" y="828" width="232" height="114" as="geometry" />
         </mxCell>
         <mxCell id="RMxTbMEIOaNRfbkhPK-I-9" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RMxTbMEIOaNRfbkhPK-I-8" target="RMxTbMEIOaNRfbkhPK-I-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -204,6 +204,26 @@
         </mxCell>
         <mxCell id="RMxTbMEIOaNRfbkhPK-I-26" value="возвращает список" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RMxTbMEIOaNRfbkhPK-I-25">
           <mxGeometry x="0.0887" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RMxTbMEIOaNRfbkhPK-I-27" value="Вызывает" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RMxTbMEIOaNRfbkhPK-I-7" target="vAYTKrkjBmYyZUhOzSc0-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="165" y="868" as="sourcePoint" />
+            <mxPoint x="215" y="818" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RMxTbMEIOaNRfbkhPK-I-29" value="SearchUpdateJob.Execute&lt;div&gt;класс задачи который вызывает метод&amp;nbsp;&lt;b style=&quot;background-color: initial;&quot;&gt;SearchEndpoints.Update()&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;выполняется раз в час&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;работая на основе&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Quartz&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-388" y="1051" width="232" height="114" as="geometry" />
+        </mxCell>
+        <mxCell id="RMxTbMEIOaNRfbkhPK-I-30" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RMxTbMEIOaNRfbkhPK-I-29" target="RMxTbMEIOaNRfbkhPK-I-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="17" y="1031" as="sourcePoint" />
+            <mxPoint x="67" y="981" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RMxTbMEIOaNRfbkhPK-I-31" value="вызывает" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RMxTbMEIOaNRfbkhPK-I-30">
+          <mxGeometry x="-0.3255" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
