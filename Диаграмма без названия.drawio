@@ -59,7 +59,7 @@
             <mxPoint x="1032.0800000000002" y="1158.966" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vAYTKrkjBmYyZUhOzSc0-27" value="IApiEndpointProvider" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="vAYTKrkjBmYyZUhOzSc0-27" value="ISearchDataFetcher" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="509" y="1099" width="160" height="70" as="geometry">
             <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
@@ -225,6 +225,15 @@
         <mxCell id="RMxTbMEIOaNRfbkhPK-I-31" value="вызывает" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RMxTbMEIOaNRfbkhPK-I-30">
           <mxGeometry x="-0.3255" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RMxTbMEIOaNRfbkhPK-I-32" value="Атрибут&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;SearchAttribute&amp;lt;T&amp;gt;() : Attribute&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp; where T : class, ISearchDataFetcher&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Указывается у методов ендпоинтов по которым должен проходит поиск&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;реализации&amp;nbsp;&lt;/b&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;ISearchDataFetcher так же должны быть добавлены в DI&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="425" y="1353" width="323" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="RMxTbMEIOaNRfbkhPK-I-34" value="Содержит в себе" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RMxTbMEIOaNRfbkhPK-I-32" target="vAYTKrkjBmYyZUhOzSc0-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="1353" as="sourcePoint" />
+            <mxPoint x="500" y="1303" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
